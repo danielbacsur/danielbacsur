@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there! I'm Daniel Bacsur.</h3>
 
 <div align="center">
-  What I do? Check out <a href="https://danielbacsur.com">danielbacsur.com</a> for personal and <a href="https://danielbacsur.dev">danielbacsur.dev</a> for projects and work.
+  What I do? Check out <a href="https://danielbacsur.com">danielbacsur.com</a> for personal updates and <a href="https://danielbacsur.dev">danielbacsur.dev</a> for projects and work.
 </div>
 
 <br/>
